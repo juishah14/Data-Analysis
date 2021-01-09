@@ -1,4 +1,4 @@
 # Data-Analysis
 
-Using the Internet as a source of data, I wrote programs which scrape, parse, and read web data, as well as access data using web APIs, such as the GeoJSON API. I worked with HTML, XML, and JSON data formats in Python.
-Tools: Python, Jupyter Notebooks, HTML, JSON, XML, BeautifulSoup, Socket, Urllib, GeoJSON API
+To learn the basics of data analysis, such as importing datasets, cleaning data, data frame manipulation, summarizing data, building ML regression models, and building data pipelines, I completed the following labs. 
+Tools: Python, Jupyter Notebook, Pandas, Numpy, Seaborn, Matplotlib, Scipy, Scikit-Learn, IBM Watson Studio
